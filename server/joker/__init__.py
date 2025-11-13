@@ -5,7 +5,6 @@ jokes api
 @author:
 @version: 2025.11
 """
-from .joker import app
 import pathlib
 
 try:  # Python 3.11+
