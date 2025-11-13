@@ -41,3 +41,5 @@ def create_app() -> Flask:
     this_app.register_blueprint(main)
 
     return this_app
+
+app = create_app()
